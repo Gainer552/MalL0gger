@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# malware_static_analyzer_prompt.sh
 # Static, read-only analyzer for a single file.
 # Prompts user for file path, analyzes it safely, logs all output to a timestamped report,
 # and attempts to make the report immutable (via chattr or chmod fallback).
