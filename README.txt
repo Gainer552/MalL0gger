@@ -2,7 +2,7 @@
 
 Overview
 
-MalL0gger is a **pure Bash static malware analysis tool** designed to safely 
+MalL0gger is a pure Bash static malware analysis tool designed to safely 
 collect forensic data and intelligence from any file type without executing it.
 
 It performs a full-spectrum static analysis using only built-in Linux utilities 
